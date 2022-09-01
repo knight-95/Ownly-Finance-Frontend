@@ -1,10 +1,11 @@
 import React from "react";
+import './About.css';
 
 const About = () => {
   return (
     <div className="text-center  about">
       <div className="gradient text-white">
-        <p>OWnly, an Own and Share</p>
+        <p>OWNly, an Own and Share</p>
         <p>Copyright NFT Platform</p>
       </div>
       <div>

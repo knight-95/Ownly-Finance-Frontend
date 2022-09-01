@@ -1,7 +1,7 @@
 import React from 'react'
 import {SiDiscord} from 'react-icons/si'
 import {BsTwitter} from 'react-icons/bs'
-import logo from "../images/logo.png";
+import logo from "../../images/logo.png";
 
 const Navbar = () => {
   return (

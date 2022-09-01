@@ -1,7 +1,7 @@
 import React from "react";
-import logo from "../images/logo.png";
+import logo from "../../images/logo.png";
 
-const Footer = () => {
+const Footer2 = () => {
   return (
     <div>
       <div className="row-f">
@@ -78,4 +78,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default Footer2;
