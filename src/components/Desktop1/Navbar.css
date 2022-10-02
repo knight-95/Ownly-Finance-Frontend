@@ -1,0 +1,54 @@
+.navbar{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    margin-left: 24px;
+}
+.nav-logo{
+    margin-left: 5px;
+    margin-right: 70%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+ }
+ .nav-title {
+    margin-left: 5px;
+    margin-right: 1%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+ }
+ .nav-links{
+    margin-left: 5px;
+    margin-right: 1%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+ }
+ .nav-discord{
+    margin-left: 5px;
+    margin-right: 1%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+ }
+/* For mobile devices view*/
+@media screen and (max-width: 768px){
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+}
