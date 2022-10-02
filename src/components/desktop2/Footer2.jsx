@@ -12,7 +12,7 @@ const Footer2 = () => {
               <p>Discord Members</p>
               <br />
               <button className="launch_app">
-                <b>Join Discord</b>
+                <b>Join our Discord</b>
               </button>
             </div>
             <div className="column-l">
