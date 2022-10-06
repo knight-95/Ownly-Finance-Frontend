@@ -1,5 +1,7 @@
 # Need to create its mobile responsive version
 
+A version that is compatible in any size screen
+
 # Getting Started with Create React App
 
 ## Available Scripts
