@@ -6,7 +6,7 @@ import ComingSoon from './components/desktop2/Coming_soon';
 import Footer2 from './components/desktop2/Footer2';
 import React from "react";
 import './Desktop2.css';
-
+// import react-dom-render
 const Desktop2 = () => {
   return (
     <div className='desktop2'>
